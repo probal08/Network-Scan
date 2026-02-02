@@ -1,4 +1,4 @@
-# Task 1 – Local Network Port Scanning
+# Local Network Port Scanning
 
 ## Objective
 To scan my local network (10.38.91.0/24) using Nmap to identify active hosts, discover open ports, and understand network exposure from a cybersecurity perspective.
